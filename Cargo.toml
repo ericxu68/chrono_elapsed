@@ -12,5 +12,5 @@ repository = "https://github.com/aidenlangley/chrono_elapsed"
 version = "1.0.12"
 
 [dependencies]
-chrono = "0.4.19"
+chrono = "0.4.24"
 libmath = "0.2.1"
